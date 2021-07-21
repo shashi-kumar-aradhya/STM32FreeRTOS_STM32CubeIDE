@@ -1,0 +1,11 @@
+*.elf
+*.list
+*.bin
+*.o
+**/.cproject
+**/.mxproject
+**/.project
+**/.settings
+**/.metadata
+*.su
+*.d
